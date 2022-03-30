@@ -1,10 +1,10 @@
 ### Welcome to my GitHub
 Skills: <br />
     - .Net (C#, Asp Net, .Net6, Vb.net, EF6) <br />
-    - Javascript (ES6, node, VueJs, Vuetify) <br />
+    - Javascript (ES6, VueJs, Vuetify) <br />
     - SQL (SQL Server, T-SQL, Oracle, PL/SQL, MySql) <br />
     - Cloud (AWS, Azure) <br />
-    - TypeScript <br />
+    - TypeScript (Node Express, TypeORM) <br />
     - Rest API, GraphQL, OData <br />
     - Clean Code, SOLID <br />
     - RabittMQ <br />
