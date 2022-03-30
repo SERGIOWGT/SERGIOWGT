@@ -1,13 +1,20 @@
 ### Welcome to my GitHub
 Skills: <br />
-    .Net (C#, Asp Net, .Net6, Vb.net, EF6) <br />
+    - .Net (C#, Asp Net, .Net6, Vb.net, EF6) <br />
     - Javascript (ES6, node, VueJs, Vuetify) <br />
     - SQL (SQL Server, T-SQL, Oracle, PL/SQL, MySql) <br />
     - Cloud (AWS, Azure) <br />
     - TypeScript <br />
     - Rest API, GraphQL, OData <br />
     - Clean Code, SOLID <br />
+    - RabittMQ <br />
 
 I'm studying .Net MAUI Blazor.<br /><br />
 
 Visual Studio 2022 and Visual Studio Code.<br />
+
+<div>
+    <a ref="https://github.com/SERGIOWGT">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiowgt&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowgt&layout=compact&langs_count=16&theme=dracula">
+</div>
