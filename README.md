@@ -19,5 +19,5 @@ Visual Studio 2022 and Visual Studio Code.<br />
 <div>
     <a ref="https://github.com/SERGIOWGT">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiowgt&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiowgt&layout=compact&langs_count=16&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiowgt&layout=compact&langs_count=16&theme=dracula">
 </div>
