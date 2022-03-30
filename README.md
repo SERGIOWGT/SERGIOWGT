@@ -1,14 +1,14 @@
-Welcome to my GitHub
+### Welcome to my GitHub
 
-Skills: 
-    .Net (C#, Asp Net, .Net6, vb.net)
-    Javascript (ES6, node, VueJs, vuetify)
-    SQL (SQL Server - advanced, Oracle, PL/SQL, MySql)
-    Cloud (AWS, Azure)
-    TypeScript
-    Rest API, GraphQL, OData
-    Clean Code, SOLID
+Skills: <br />
+    - .Net (C#, Asp Net, .Net6, Vb.net, EF6) <br />
+    - Javascript (ES6, node, VueJs, Vuetify) <br />
+    - SQL (SQL Server, T-SQL, Oracle, PL/SQL, MySql) <br />
+    - Cloud (AWS, Azure) <br />
+    - TypeScript <br />
+    - Rest API, GraphQL, OData <br />
+    - Clean Code, SOLID <br />
 
-I'm studying .Net MAUI Blazor.
+I'm studying .Net MAUI Blazor.<br /><br />
 
-Visual Studio 2022 and Visual Studio Code.
+Visual Studio 2022 and Visual Studio Code.<br />
